@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://2ndyifei.github.io</id>
+    <title>Yifei 2nd Blog</title>
+    <updated>2023-01-12T09:39:10.996Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://2ndyifei.github.io"/>
+    <link rel="self" href="https://2ndyifei.github.io/atom.xml"/>
+    <subtitle>旅行记录砖门夹
+作者有点懒 非必要不写字 看图一楽罢</subtitle>
+    <logo>https://2ndyifei.github.io/images/avatar.png</logo>
+    <icon>https://2ndyifei.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Yifei 2nd Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[寒假旅行 Day20]]></title>
+        <id>https://2ndyifei.github.io/xPNJ08JnR/</id>
+        <link href="https://2ndyifei.github.io/xPNJ08JnR/">
+        </link>
+        <updated>2023-01-12T09:32:46.000Z</updated>
+        <summary type="html"><![CDATA[<p>回家，仿佛做梦</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>回家，仿佛做梦</p>
+]]></content>
+    </entry>
+</feed>
